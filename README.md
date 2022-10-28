@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a full stack developer...
+I'm a student of Zuri training currently undergoing training to become a full-stack developer.
 <!--
 **SoniaChinasa1/SoniaChinasa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
