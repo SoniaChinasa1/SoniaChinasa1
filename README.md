@@ -1,4 +1,5 @@
 ### Hi there 👋
+## 🚀 About Me
 I'm Sonia from Nigeria, an animator creator and a student of Zuri training currently undergoing training to become a full-stack developer.
 🧠 I'm currently learning...HTML, CSS, and JAVASCRIPT
 
