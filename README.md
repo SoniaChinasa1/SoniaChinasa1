@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sonia from Nigeria, a student of Zuri training currently undergoing training to become a full-stack developer.
+I'm Sonia from Nigeria, an animator creator and a student of Zuri training currently undergoing training to become a full-stack developer.
 🧠 I'm currently learning...HTML, CSS, and JAVASCRIPT
 
 👯‍♀️ I'm looking forward to collaborate with you on any program on web development
