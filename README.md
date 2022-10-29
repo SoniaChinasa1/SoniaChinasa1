@@ -4,7 +4,7 @@ I'm Sonia from Nigeria, an animator creator and a student of Zuri training curre
 🧠 I'm currently learning...HTML, CSS, and JAVASCRIPT
 
 👯‍♀️ I'm looking forward to collaborate with you on any program on web development
-# Contact me 
+#### Contact me 
 08133594180
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinasa)
 <!--
